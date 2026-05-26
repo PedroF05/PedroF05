@@ -2,7 +2,7 @@
 
 **`Análise de Dados`**
 
-Sou estudante de Sistemas de Informação e atuo como Técnico de TI, com experiência em manutenção de hardware, suporte a usuários e infraestrutura tecnológica.
+Sou estudante de Sistemas de Informação e atuo com suporte técnico e automação de processos, com experiência em manutenção de hardware, suporte a usuários e infraestrutura tecnológica.
 Atualmente, estou me aprofundando na área de Análise de Dados, desenvolvendo projetos com foco em Python, SQL e Power BI. Busco unir conhecimento técnico com visão analítica para criar soluções que otimizem processos e gerem valor por meio de dados.
 Aqui no GitHub, compartilho meus estudos, projetos práticos e aprendizados ao longo da jornada.
 <br>Fique à vontade para explorar meus repositórios!
