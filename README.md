@@ -29,9 +29,11 @@ Aqui no GitHub, compartilho meus estudos, projetos práticos e aprendizados ao l
     />
 
 <img 
+    align="left" 
     alt="Power BI" 
-    height="60" 
-    width="60" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;"  
     src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
     
 <br/>
