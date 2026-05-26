@@ -34,7 +34,7 @@ Aqui no GitHub, compartilho meus estudos, projetos práticos e aprendizados ao l
     title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png">
+    src="<img alt="Power BI" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Power BI.svg">"/>
 
 <br/>
 <br/>
