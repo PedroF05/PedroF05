@@ -32,7 +32,7 @@ Aqui no GitHub, compartilho meus estudos, projetos práticos e aprendizados ao l
     align="left" 
     alt="Power BI" 
     title="Power BI"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;"  
     src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
     
